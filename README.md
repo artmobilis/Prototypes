@@ -8,6 +8,6 @@ Repository dédié au code lui même; applications Android "native" et "web".
 
 
 ##"Web" application
-![Cordova](Cordova/) - Status : dev activ. 
+![Cordova](Cordova/) - Status : devellopement has migrated to [ArtMobilis-js](https://github.com/artmobilis/ArtMobilis-js) and [Artmobilib](https://github.com/artmobilis/ArtMobilib) repositories
 
 ## "Native" application
